@@ -117,6 +117,4 @@ I'm planning to explore:
 
 The skills I learned here - prompt engineering, token management, error handling, model selection - apply to any AI integration project, not just baseball statistics.
 
----
 
-*This journey started with a simple question: "Can I build something that talks to an AI?" The answer is yes - and the learning along the way was the best part.*
