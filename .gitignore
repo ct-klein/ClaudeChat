@@ -1,2 +1,5 @@
 obj/Debug/net9.0/ClaudeChat.AssemblyInfo.cs
 obj/Debug/net9.0/ClaudeChat.AssemblyInfoInputs.cache
+bin/
+obj/
+
